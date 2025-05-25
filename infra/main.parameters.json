@@ -64,19 +64,19 @@
     }
     ,
     "copilotAppExists": {
-      "value": true
+      "value": false
     },
     "webAppExists": {
-      "value": true
+      "value": false
     },
     "accountAppExists": {
-      "value": true
+      "value": false
     },
     "paymentAppExists": {
-      "value": true
+      "value": false
     },
     "transactionAppExists": {
-      "value": true
+      "value": false
     }
   }
 
